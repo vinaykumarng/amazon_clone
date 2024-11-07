@@ -25,8 +25,66 @@
             </div>
             <input type="text" class="nav-search-input" placeholder="Search Amazon">
             <img src="./assets/search_icon.png" alt="search" class="nav-search-icon">
-            
         </div>
+        <div class="nav-language">
+            <img src="./assets/us_flag.png" alt="us-flag" width="25px">
+            <p>EN</p>
+            <img src="./assets/dropdown_icon.png" alt="drop" width="8px">
+        </div>
+        <div class="nav-text">
+            <p>Hello, Sign in </p>
+            <h1>Account & Lists <img src="./assets/dropdown_icon.png" alt="drop" width="8px"></h1>
+        </div>
+        <div class="nav-text">
+            <p>Return</p>
+            <h1> & Orders <img src="./assets/dropdown_icon.png" alt="drop" width="8px"></h1>
+        </div>
+        <a href="" class="nav-cart">
+            <img src="./assets/cart_icon.png" alt="cart" width="35px">
+            <h4>Cart</h4>
+        </a>
     </nav>
+
+    <div class="nav-bottom">
+        <div>
+            <img src="./assets/menu_icon.png" alt="" width="25px">
+            <p>ALL</p>
+        </div>
+        <p>Today's Deal</p>
+        <p>Customer services</p>
+        <p>Registry</p>
+        <p>Gift Cards</p>
+        <p>Sell</p>
+    </div>
+    <div class="header-slider">
+        <a class="control_prev" href="">&#129144;</a>
+        <a class="control_next" href="">&#129146;</a>
+        <ul>
+            <img src="./assets/header1.jpg" alt="" class="header-img">
+            <img src="./assets/header2.jpg" alt="" class="header-img">
+            <img src="./assets/header3.jpg" alt="" class="header-img">
+            <img src="./assets/header4.jpg" alt="" class="header-img">
+            <img src="./assets/header5.jpg" alt="" class="header-img">
+            <img src="./assets/header6.jpg" alt="" class="header-img">
+        </ul>
+    </div>
+
+    <script>
+        const imgs = document.querySelectorALL(".header-slider ul img");
+        const prev_btn = document.querySelectorAll('.control_prev');
+        const next_btn = document.querySelectorAll('.control_next');
+
+        let n = 2;
+
+        function changeSlide(){
+            for (let i = 0; i < imgs.length; i++) {
+                imgs[i].style.display = 'none'; 
+            }
+            imgs[n].style.display = 'block'; 
+
+        }
+        changeSlide();  
+
+    </script>
 </body>
 </html>
