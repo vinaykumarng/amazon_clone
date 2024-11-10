@@ -7,8 +7,8 @@ This clone is refered form <br>[How To Create Amazon Clone Using HTML CSS And Ja
 
 # Page view
 
-To view the page [click Here](https://vinaykumarng.github.io/amazon_clone/) <br>
-To view the product page [click Here](https://vinaykumarng.github.io/amazon_clone/product.html) <br>
+To view the Mainpage [click Here](https://vinaykumarng.github.io/amazon_clone/) <br>
+To view the Product page [click Here](https://vinaykumarng.github.io/amazon_clone/product.html) <br>
 To view the Cart page [click Here](https://vinaykumarng.github.io/amazon_clone/cart.html)
 
 
