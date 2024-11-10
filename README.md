@@ -12,4 +12,4 @@ To view the Product page [click Here](https://vinaykumarng.github.io/amazon_clon
 To view the Cart page [click Here](https://vinaykumarng.github.io/amazon_clone/cart.html)
 
 
-<span style="color: green"> Note:</span> This project is not complete yet
+<h3 style="color: green"> Note:</h3> This project is not complete yet
