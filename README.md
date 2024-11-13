@@ -11,6 +11,7 @@ This clone is refered form <br>[How To Create Amazon Clone Using HTML CSS And Ja
 To view the Main page [click Here](https://vinaykumarng.github.io/amazon_clone/) <br>
 To view the Product page [click Here](https://vinaykumarng.github.io/amazon_clone/product.html) <br>
 To view the Cart page [click Here](https://vinaykumarng.github.io/amazon_clone/cart.html)
+To view the Signin page [click Here](https://vinaykumarng.github.io/amazon_clone/signin.html)
 
 
 <h3 style="color: green"> Note:</h3> This project is not complete yet
