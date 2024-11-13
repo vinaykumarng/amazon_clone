@@ -15,4 +15,4 @@ To view the Signin page [click Here](https://vinaykumarng.github.io/amazon_clone
 To view the Signup page [click Here](https://vinaykumarng.github.io/amazon_clone/signup.html)
 
 
-<h3 style="color: green"> Note:</h3> This project is not complete yet
+<h3> ThankYou </h3>
